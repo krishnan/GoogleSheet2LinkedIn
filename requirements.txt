@@ -1,0 +1,8 @@
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.86.0
+openai==1.12.0
+anthropic==0.7.0
+google-generativeai==0.3.0
+cohere==4.50
+python-dotenv==1.0.0
+pandas==2.1.0
